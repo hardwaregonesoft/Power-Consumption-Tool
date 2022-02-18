@@ -1,3 +1,0 @@
-This is the official test to see if I can upload this file directly to Github
-From my text editor. Hope it works!
-It doesn't seem to be doing so
